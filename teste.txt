@@ -1,3 +1,4 @@
 Teste do Git 1
 Teste do Git 2
 Teste do Git 3
+Nova alteração
