@@ -3,3 +3,4 @@ Teste do Git 2
 Teste do Git 3
 Nova alteração
 Mudei no repositório antigo
+mudei o arquivo novamente
